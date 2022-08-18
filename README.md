@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phincoexz
-- 👀 I’m interested in Laravel/Codeigniter, Vue/Nuxt
-- 🌱 I’m currently learning Nuxt
+- 👀 I’m interested in Laravel/Codeigniter, ReactJS, VueJS, NuxtJS
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 
